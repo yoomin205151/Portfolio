@@ -23,6 +23,7 @@ window.onscroll = () => {
             });
             sec.classList.add('show-animate');
         }
+        
     });
 
     let header = document.querySelector('header');
